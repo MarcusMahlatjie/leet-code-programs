@@ -1,0 +1,2 @@
+## Leet Code challenges
+These are all of the leet code challenges that I have completed. I've only uploaded the problems that were 100% accepted meaning they solved the problem. I am constantly looking to find better solutions to these problems and make sure that the code follows best practices. Some of the challenges may be done in a different language like Java or Python depending on the problem and which language I best understand the algorithm/data structure in.
